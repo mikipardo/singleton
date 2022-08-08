@@ -32,7 +32,7 @@ public class BDController {
 					e.printStackTrace();
 					System.out.println("Error en Driver Manager");
 				}
-				
+				// este comentario es para vver si funciona
 			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
